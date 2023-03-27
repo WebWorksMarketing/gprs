@@ -28,7 +28,6 @@ font-size: 1.25rem;
 margin-top: 1rem;
 padding: 1rem;
 }
-And add this right after:
 #closest-techs-result .contact-region {
 display: inline-block;
 margin-right: 1rem;
